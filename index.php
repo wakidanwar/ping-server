@@ -18,9 +18,9 @@ $host[4] = "facebook.com";
 $host[5] = "google.com";
 $host[6] = "youtube.com";
 $host[7] = "m.mobilelegends.com";
-$host[8] = "Server8";
-$host[9] = "Server9";
-$host[10] = "Server10";
+$host[8] = "whatsapp.com";
+$host[9] = "web.whatsapp.com";
+$host[10] = "telegram.org";
 // -------------------------
 // Type in the function of each server inside the quotation marks.
 // -------------------------
