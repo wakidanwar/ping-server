@@ -20,7 +20,7 @@ $host[6] = "youtube.com";
 $host[7] = "m.mobilelegends.com";
 $host[8] = "whatsapp.com";
 $host[9] = "web.whatsapp.com";
-$host[10] = "web.telegram.org";
+$host[10] = "www.instagram.com";
 // -------------------------
 // Type in the function of each server inside the quotation marks.
 // -------------------------
